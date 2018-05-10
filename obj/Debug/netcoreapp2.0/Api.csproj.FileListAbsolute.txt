@@ -1,0 +1,11 @@
+F:\Projeto\pos\webapi\Api\bin\Debug\netcoreapp2.0\Api.deps.json
+F:\Projeto\pos\webapi\Api\bin\Debug\netcoreapp2.0\Api.runtimeconfig.json
+F:\Projeto\pos\webapi\Api\bin\Debug\netcoreapp2.0\Api.runtimeconfig.dev.json
+F:\Projeto\pos\webapi\Api\bin\Debug\netcoreapp2.0\Api.dll
+F:\Projeto\pos\webapi\Api\obj\Debug\netcoreapp2.0\Api.csprojAssemblyReference.cache
+F:\Projeto\pos\webapi\Api\obj\Debug\netcoreapp2.0\Api.csproj.CoreCompileInputs.cache
+F:\Projeto\pos\webapi\Api\obj\Debug\netcoreapp2.0\Api.AssemblyInfoInputs.cache
+F:\Projeto\pos\webapi\Api\obj\Debug\netcoreapp2.0\Api.AssemblyInfo.cs
+F:\Projeto\pos\webapi\Api\bin\Debug\netcoreapp2.0\Api.pdb
+F:\Projeto\pos\webapi\Api\obj\Debug\netcoreapp2.0\Api.dll
+F:\Projeto\pos\webapi\Api\obj\Debug\netcoreapp2.0\Api.pdb
